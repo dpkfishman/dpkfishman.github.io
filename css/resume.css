@@ -1,0 +1,101 @@
+/*!
+	Write Custom CSS here
+*/
+
+body {
+	padding-top: 65px;
+}
+
+h1 {
+	font-size: 75px;
+	margin-bottom: 5px;
+	color:#3F65AF;
+	
+	
+}
+
+h2 {
+	color: #704D9F;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight:600;
+	font-size: 24px;
+	letter-spacing: 2px;
+}
+
+p {
+	color: black;
+}
+
+/*
+p {
+	color: #A8FF00;
+} */
+
+.container {
+	font-family: Times New Roman;
+}
+
+.navbar-inner {
+	paddimg-left: 40px;
+}
+
+.contactinfo {
+	text-align: center;
+	margin-right: 40px;
+	margin-left: 40px;
+	border-bottom-style: dotted;
+	border-color: gray;
+	padding-bottom: 10px;
+	color: #7F395A;
+}
+
+a {
+	color:#990000;
+}
+
+.bio {
+
+	color: black;
+	font-size: 26px;
+	letter-spacing: 0px;
+	line-height: 100%;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight:300;
+	
+	
+}
+
+#dflogo {
+
+	position: absolute;
+	left: 920px;
+	top: 60px;
+	
+}
+
+.biolink {
+
+	color: #006633
+	
+}
+
+#education {
+
+	color: #990000;
+	
+}
+
+#experience {
+
+	color: #990000;
+	
+}
+
+#copy {
+
+	font-family: 'Source Sans Pro', sans-serif;
+	
+}
+	
+
+
